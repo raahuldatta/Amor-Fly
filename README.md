@@ -1,5 +1,5 @@
 # 🌐 Amor Fly Platform
-
+Deployed link: https://amor-fly-platform.vercel.app
 **Amor Fly** is a modern **social learning platform** that connects people through shared skills, interests, and collaborative learning groups called **Pods**. Built using **Node.js 18+, Supabase, Clerk, and Vercel**, it empowers peer-to-peer learning with personalized experiences and real-time collaboration.
 
 ---
